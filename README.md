@@ -1,4 +1,4 @@
-# Hi, I'm Wala
+# Hi, I'm Wala Eddine
 
 CS student and motion designer from Algeria, learning to build interactive web projects.
 
