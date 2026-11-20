@@ -4,3 +4,4 @@ CS student and motion designer from Algeria, learning to build interactive web p
 
 - Learning in public: [js-css-html-learning](https://github.com/kw20d/js-css-html-learning)
 - Latest project: [Command Line Based portfolio](https://github.com/kw20d/command-line-os)
+- Currently building: [ZIX-Ani-AE26-Script](https://github.com/kw20d/ZIX-Ani-AE26-Script)
